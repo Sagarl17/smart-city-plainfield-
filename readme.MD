@@ -1,6 +1,6 @@
 # Smart City Plainfield
 
-This repository contains the code for extracting jsons of trees,buildings and roads os US cities in winter.
+This repository contains the code for extracting jsons of trees,buildings and roads of US cities in winter.
 
 # Steps For Installation:
 
