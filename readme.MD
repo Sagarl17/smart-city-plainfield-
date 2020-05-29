@@ -13,10 +13,17 @@ For linux users,download and install miniconda from following link:
 For windows users,download and install miniconda from following link:
     https://repo.continuum.io/miniconda/Miniconda3-4.3.31-Windows-x86_64.exe
 
+Open terminal/Command prompt inside the folder:
 If you are installing on a system with GPU access:
     conda env create -n plainfield -f environment-gpu.yml
 otherwise:
     conda env create -n plainfield -f environment.yml
+
+conda activate plainfield
+conda install -c pytorch -c fastai fastai
+    
+
+
     
 ```
 
