@@ -26,6 +26,11 @@ conda install -c pytorch -c fastai fastai
 
     
 ```
+#Training
+```bash
+The Training part has separate readme which can be accessd by going to Trainings folder
+```
+
 
 # Data Preparation:
 ```bash
