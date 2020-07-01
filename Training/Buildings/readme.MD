@@ -35,7 +35,6 @@ https://drive.google.com/file/d/1c9vK2mkIJbTa317pI8GfTJAvEoD6B0yP/view?usp=shari
 https://drive.google.com/file/d/1Js9qYMRTzs-GkBSbBkdaAmIq9uSKI7jX/view?usp=sharing
 https://drive.google.com/file/d/1S-Fxc0uhqOhd7cNH52UPBUepm6aZ1HSS/view?usp=sharing
 
-Create a dataset folder inside the "data" folder and place the following data inside the dataset folder.
 
 Open terminal in folder and run jupyter notebook.
 Open Create_training_dataset.ipynb and run the cells to create the necessary data.
